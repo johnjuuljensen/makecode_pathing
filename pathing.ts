@@ -1,5 +1,8 @@
+
 namespace pathing {
-    //% block
+
+    //% block="shear $img by $amount"
+    //% img.shadow=screen_image_picker
     export function shearX(amount: number, img: Image): Image {
         const gradient = amount / img.height;
         let res = image.create(img.width, img.height);
