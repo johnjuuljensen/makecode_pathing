@@ -1,12 +1,10 @@
 {
-    "image1": {
+    "myImages.image1": {
+        "id": "myImages.image1",
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICIiIiICAAAgiIiIiAIAACCIiIiIAgAAIIiIiIgCAAAgiIiIiAIAACCIiIiIAgAAIIiIiIgCAAAgiIiIiAIAACCIiIiIAgAAICIiIiICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "box"
-    },
-    "*": {
-        "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64",
-        "namespace": "myImages"
     }
 }
